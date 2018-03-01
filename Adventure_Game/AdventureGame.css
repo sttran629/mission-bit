@@ -7,7 +7,7 @@ background-image: url(/Pirate%20Chest/captians_quarters.jpg);
 
 div.left {
     position:relative;
-    top:156px;
+    top:150px;
     position:relative;
     left: -200px;
 }
@@ -23,5 +23,3 @@ a{color: white;
     font-family: fantasy;
     font-size: 30px;
 }
-h1{color:white}
-p1{color:white}
